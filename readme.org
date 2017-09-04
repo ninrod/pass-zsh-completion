@@ -1,0 +1,3 @@
+* pass zsh completion
+  - a convenience repo to easlily install [[https://www.passwordstore.org/][pass]] zsh completion
+  - completion file obtained from [[https://git.zx2c4.com/password-store/tree/src/completion/pass.zsh-completion][upstream]]
