@@ -1,3 +1,9 @@
 * pass zsh completion
-  - a convenience repo to easlily install [[https://www.passwordstore.org/][pass]] zsh completion
-  - completion file obtained from [[https://git.zx2c4.com/password-store/tree/src/completion/pass.zsh-completion][upstream]]
+
+- a convenience repo to easily obtain [[https://www.passwordstore.org/][pass]] command completion for zsh
+- completion file obtained from [[https://git.zx2c4.com/password-store/tree/src/completion/pass.zsh-completion][upstream]]
+
+* LICENSE
+
+- GPLv2+
+- [[https://www.passwordstore.org/][pass]] was written by Jason A. Donenfeld of [[zx2c4.com][zx2c4.com]] and is licensed under the [[http://www.gnu.org/licenses/gpl-2.0.html][GPLv2+]].
